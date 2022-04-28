@@ -1,4 +1,4 @@
-title: Deploy Node App to Azure
+Run/exe.com[
 tagline: Learn how to create an From c1c161b7cfd13723b448e7a8dcf3e89f7bf80cda Mon Sep 17 00:00:00 2001
 From: RexQu2xcopy <103547033+RexQu2xcopy@users.noreply.github.com>
 Date: Fri, 22 Apr 2022 13:28:56 +0100
@@ -236,4 +236,4 @@ HcmV?d00001
 description: Point users to a newly created issue and closes the original issue
 template:
   name: node-app
-  repo: node-express
+  repo: node-express]
